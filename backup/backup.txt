@@ -1,0 +1,25 @@
+total 4646466
+drwxr-xr-x 1 Iwona 197121          0 sty 13  2018 $Recycle.Bin
+drwxr-xr-x 1 Iwona 197121          0 mar  1  2018 $SysReset
+drwxr-xr-x 1 Iwona 197121          0 sty 13 20:46 $WinREAgent
+-rw-r--r-- 1 Iwona 197121         30 sty 14  2018 AVScanner.ini
+-rw-r--r-- 1 Iwona 197121      22504 kwi  9  2019 bdlog.txt
+-r--r--r-- 1 Iwona 197121     400228 paź 30  2015 bootmgr
+-rw-r--r-- 1 Iwona 197121          1 paź 30  2015 BOOTNXT
+lrwxrwxrwx 1 Iwona 197121          8 sty 11  2018 Documents and Settings -> /c/Users
+-rw-r--r-- 1 Iwona 197121       8192 gru 20 10:58 DumpStack.log
+-rw-r--r-- 1 Iwona 197121       8192 lut  4 14:13 DumpStack.log.tmp
+-rw-r--r-- 1 Iwona 197121 3398479872 lut  7 22:17 hiberfil.sys
+drwxr-xr-x 1 Iwona 197121          0 sie  3  2020 Intel
+drwxr-xr-x 1 Iwona 197121          0 kwi 27  2016 Logs
+drwxr-xr-x 1 Iwona 197121          0 sty 11  2018 MSOCache
+-rw-r--r-- 1 Iwona 197121 1342177280 lut  4 14:13 pagefile.sys
+drwxr-xr-x 1 Iwona 197121          0 gru  7  2019 PerfLogs
+drwxr-xr-x 1 Iwona 197121          0 sty 29 20:18 Program Files
+drwxr-xr-x 1 Iwona 197121          0 sie  3  2020 Program Files (x86)
+drwxr-xr-x 1 Iwona 197121          0 sty 24 20:40 ProgramData
+drwxr-xr-x 1 Iwona 197121          0 sie  3  2020 Recovery
+-rw-r--r-- 1 Iwona 197121   16777216 lut  4 14:13 swapfile.sys
+drwxr-xr-x 1 Iwona 197121          0 lut 24  2020 System Volume Information
+drwxr-xr-x 1 Iwona 197121          0 sie  3  2020 Users
+drwxr-xr-x 1 Iwona 197121          0 sty  9 21:30 Windows
